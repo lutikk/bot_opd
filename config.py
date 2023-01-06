@@ -5,8 +5,8 @@ import os
 
 QIWI_PRIV_KEY = ""
 
-main_token = 'vk1.a.tAdtCX2FK3Xu-yH5bq1lPJoN3JH7p0xvtcCKA29NFKMVTOUp5nWvU3e--kIit8ZUbFBB6az56t_O3GC_l3riGHj6jsbBT6aLtWQ4QCi3-70wHSQNwpx3audrz90C3x3TWb9wgankaDTBF3CzPeuhOQK-chtZA-VD06mW2QEtuNg2Eu53CdZOeNggQ0lxTe5aziGFKx67N6GWMovVUHo8Mg'
-dev_up_key = 'ddc68d6af3cb36a2ae1ffdfc41629b25'
+main_token = ''
+dev_up_key = ''
 faile = f'{os.getcwd()}/raspis.json' #f"/root/bot/raspis.json"
 log = 668775112
 
